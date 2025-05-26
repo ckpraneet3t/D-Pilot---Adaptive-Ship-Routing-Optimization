@@ -1,7 +1,7 @@
 DARWIN PILOT: Adaptive Ship Route Optimization
 
 Overview
-DARWIN PILOT is an advanced ship route optimization system that leverages real-time forecasting data to dynamically adjust vessel routes. The system enhances maritime navigation by ensuring efficiency, safety, and sustainability.
+DARWIN PILOT is a ship route optimization system that uses real-time forecasting data to dynamically adjust vessel routes. The system enhances maritime navigation by ensuring efficiency, safety, and sustainability.
 
 Problem Statement
 Traditional ship routing methods follow static paths, failing to account for real-time environmental changes. DARWIN PILOT introduces an adaptive approach to optimize ship routes dynamically based on maritime conditions.
